@@ -1,0 +1,12 @@
+version: 1
+name: Kafka
+blip:
+  - version: "2.7"
+    ring: TRIAL
+description: |
+  Kafka is a distributed event streaming platform. Kafka is a fast, scalable, and fault-tolerant.
+rationale: |
+  The streaming platform has three key capabilities:
+  * Publish and subscribe to streams of records, similar to a message queue or enterprise messaging system
+  * Store streams of records in a fault-tolerant durable way
+  * Process streams of records as they occur
